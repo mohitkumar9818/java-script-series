@@ -29,3 +29,6 @@ console.log(null <1)//t
 console.log(undefined <1)//f
 
 //-----------------------------------------------------
+//strict check use ===
+console.log("2"===2)//false 
+//isme datatype check hota hai
