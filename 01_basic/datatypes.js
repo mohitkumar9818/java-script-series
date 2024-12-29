@@ -1,4 +1,4 @@
-//primitive datatypes
+//primitive datatypes ---> ye immutable hota hai 
 //7 type : string, Number,Boolean,null,undefined,Symbol,Bigint
 
 //---------------------------------------------------------------
