@@ -19,7 +19,6 @@ allchen.yt2="sk" //allchen me value change kiya to refrence me bhi change ho jay
 console.log(allchen)//{ yt1: 'mk', yt2: 'sk', yt3: 'jk' }
 
 console.log(ytchen)//{ yt1: 'mk', yt2: 'sk', yt3: 'jk' }
-
 //heap me refrence milta hai 
 //stack me hme copy milta hai 
 
