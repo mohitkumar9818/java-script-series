@@ -10,7 +10,6 @@
  console.log("2"==2)//t  yha pr string ko number me convert kr deta hai js 
 // console.log("02">4)//f
 //--------------------------------------------------
-
 // console.log(null >0)//f
 // console.log(null ==0)//f
 // console.log(null >=0)//t
