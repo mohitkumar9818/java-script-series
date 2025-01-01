@@ -8,7 +8,6 @@
 //33=>33
 //"33abc"=>NaN
 //true=>1 , false=0
-//
 let names="mohit"
 let name1=""
 console.log(Boolean(names))//true
