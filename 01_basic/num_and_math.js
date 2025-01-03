@@ -31,7 +31,6 @@
 // console.log(Math.min(2,3,55,3,4))//2
 // console.log(Math.max(2,3,55,3,4))//55
 
-
 // console.log(Math.random())//0.4267648650822111
 // console.log(Math.random()*10)//9.552970026650257
 // console.log(Math.floor(Math.random()*10))//3
