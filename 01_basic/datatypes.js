@@ -10,7 +10,6 @@ obj={name:"mohit",Age:22,class:"btech"}//object
 const car = function(){ console.log("start car")} 
 //--------------------------------------------------------------
 //use symbol
-
 const id=Symbol("123")
 const logid=Symbol("123")
 console.log(id===logid)//false
