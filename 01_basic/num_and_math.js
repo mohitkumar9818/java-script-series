@@ -13,7 +13,6 @@
 // console.log(num3.toPrecision(5))//3862.8
 // const num4=1239.2003
 // console.log(num4.toPrecision(1))//1e+3
-
 // const hundred=100000
 // console.log(hundred.toLocaleString())//100,000
 // const hundred_ind=100000
