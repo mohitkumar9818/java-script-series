@@ -34,7 +34,6 @@
 // console.log(Math.random())//0.4267648650822111
 // console.log(Math.random()*10)//9.552970026650257
 // console.log(Math.floor(Math.random()*10))//3
-
 const min =10
 const max =20
 console.log(Math.floor(Math.random()*(max-min +1))+min)///15 or 17 or 18 etc 
