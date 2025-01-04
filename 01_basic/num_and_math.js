@@ -5,7 +5,6 @@
 // console.log(bal.toString().length)//3
 // console.log(bal.toFixed(2))//100.00
 // console.log(bal.toFixed(4))//100.0000
-
 // const num=100.2003
 // console.log(num.toPrecision(3))//100
 // const num2=10.2003
