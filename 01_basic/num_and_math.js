@@ -35,3 +35,4 @@
 const min =10
 const max =20
 console.log(Math.floor(Math.random()*(max-min +1))+min)///15 or 17 or 18 etc 
+
