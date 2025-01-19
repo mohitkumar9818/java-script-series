@@ -12,3 +12,4 @@ let names="mohit"
 let name1=""
 console.log(Boolean(names))//true
 console.log(Boolean(name1))//false
+
