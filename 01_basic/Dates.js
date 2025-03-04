@@ -25,4 +25,3 @@ console.log(newDate.getDay())//5
 newDate.toLocaleDateString('default',{
     weekday:"long"
 })
-
